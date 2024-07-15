@@ -70,3 +70,17 @@
         "souce.fixAll.eslint : true
     }
 ```
+
+### Add React-hot-Toster
+
+1. Install.
+```
+    npm install react-hot-toast
+```
+2. Set Toster component in `main.jsx` file.
+
+```
+    <Toster>
+```
+
+
